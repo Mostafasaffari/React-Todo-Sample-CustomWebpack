@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": "01",
+      "name": "mostafa",
+      "surname": "saffari"
+    },
+    {
+      "id": "02",
+      "name": "sam",
+      "surname": "jackson"
+    },
+    {
+      "id": "03",
+      "name": "justin",
+      "surname": "smith"
+    },
+    {
+      "id": "04",
+      "name": "paul",
+      "surname": "nash"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "01",
+      "userId": "01",
+      "file": "/image/pic1.png"
+    },
+    {
+      "id": "02",
+      "userId": "01",
+      "file": "/image/pic2.png"
+    },
+    {
+      "id": "03",
+      "userId": "01",
+      "file": "/image/pic3.png"
+    },
+    {
+      "id": "04",
+      "userId": "02",
+      "file": "/image/pic4.png"
+    }
+  ],
+  "themes": [
+    {
+      "id": "01",
+      "color": "#ffee99"
+    },
+    {
+      "id": "02",
+      "color": "#aa8899"
+    },
+    {
+      "id": "03",
+      "color": "#ff5522"
+    },
+    {
+      "id": "04",
+      "color": "#999922"
+    },
+    {
+      "id": "05",
+      "color": "#00ff22"
+    },
+    {
+      "id": "06",
+      "color": "#663322"
+    }
+  ],
+  "todos": [
+    {
+      "id": "01",
+      "userId": "01",
+      "date": "2019-08-13T10:53:23.934",
+      "title": "BirthDay",
+      "description": "got to party"
+    },
+    {
+      "id": "02",
+      "userId": "01",
+      "date": "2019-08-14T10:53:23.934",
+      "title": "work",
+      "description": "got to work"
+    },
+    {
+      "id": "03",
+      "userId": "01",
+      "date": "2019-08-15T10:53:23.934",
+      "title": "buy",
+      "description": "got to shopping"
+    },
+    {
+      "id": "04",
+      "userId": "01",
+      "date": "2019-08-16T10:53:23.934",
+      "title": "sell",
+      "description": "got to charity"
+    },
+    {
+      "id": "05",
+      "userId": "01",
+      "date": "2019-08-17T10:53:23.934",
+      "title": "father",
+      "description": "got to father house"
+    },
+    {
+      "id": "06",
+      "userId": "01",
+      "date": "2019-08-18T10:53:23.934",
+      "title": "friends",
+      "description": "got to party"
+    },
+    {
+      "id": "07",
+      "userId": "01",
+      "date": "2019-08-19T10:53:23.934",
+      "title": "poolj",
+      "description": "got to pool"
+    },
+    {
+      "id": "08",
+      "userId": "01",
+      "date": "2019-08-20T10:53:23.934",
+      "title": "gym",
+      "description": "got to gym"
+    },
+    {
+      "id": "09",
+      "userId": "01",
+      "date": "2019-08-21T10:53:23.934",
+      "title": "friends77",
+      "description": "hang out"
+    }
+  ]
+}
+
